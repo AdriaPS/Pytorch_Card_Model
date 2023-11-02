@@ -1,0 +1,1 @@
+data_dir = 'media/image/train'
